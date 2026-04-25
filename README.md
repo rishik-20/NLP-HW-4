@@ -3,7 +3,6 @@
 # CS5760 Natural Language Processing - Homework 4
 **Student Name:** Rishik Vardhan Reddy Ummenthala
 **Student ID: 700777149
-**Department:** Computer Science & Cybersecurity
 
 ## Project Overview
 This repository contains the implementation of several foundational Natural Language Processing (NLP) architectures using PyTorch. The assignment covers Feedforward Neural Networks, XOR ReLU networks, and advanced sequence models including RNNs and Transformers.
